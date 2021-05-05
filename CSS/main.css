@@ -1,0 +1,184 @@
+.rolam{
+	background-image: url(../CSS/Képek/rolam.jpg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	min-height: 100vh;
+}
+
+.hatter img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+ul{
+	margin: 0;
+	padding: 0;
+}
+
+.menu li{
+	display: inline;
+	background-color: rgb(100,200,200);
+	border-radius: 3px;
+	padding: 5px 15px;
+}
+
+.menu2 li{
+	display: inline;
+	background-color: rgb(100,200,200);
+	border-radius: 3px;
+	padding: 5px 15px;
+}
+
+.menu3 li{
+	display: inline;
+	background-color: rgb(100,200,200);
+	border-radius: 3px;
+	padding: 5px 15px;
+}
+
+.menu4 li{
+	display: inline;
+	background-color: rgb(100,200,200);
+	border-radius: 3px;
+	padding: 5px 15px;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+
+.menu{
+	height: auto;
+	text-align: center;
+	width: 100%;
+	position: relative;
+	top: 100px;
+	right: 15px;
+}
+
+.nav1{
+	height: 0px;
+}
+
+.menu2{
+	height: auto;
+	text-align: center;
+	width: 100%;
+	position: relative;
+	top: 12px;
+	left: 330px;
+}
+
+.menu3{
+	height: auto;
+	text-align: center;
+	width: 100%;
+	position: relative;
+	left: 230px;
+}
+
+.menu4{
+	height: auto;
+	text-align: center;
+	width: 100%;
+	position: relative;
+	left: 300px;
+	top: 150px;
+}
+
+footer{
+	text-align: right;
+}
+
+.en img{
+	position: relative;
+	left: 698px;
+	bottom: 28px;
+}
+
+.rajzaim{
+	background-image: url(../CSS/Képek/mappa.jpg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	max-height: 100vh;
+}
+
+.appok{
+	position: relative;
+	left: 170px;
+	top: 265px;
+}
+
+.szoveg{
+	position: relative;
+	bottom: 130px;
+	margin-left: 690px;
+	margin-right: 265px;
+}
+
+.szoveg2{
+	margin-left: 100px;
+	margin-right: 870px;
+	margin-top: 50px;
+	text-align: left;
+	position: relative;
+	left: 395px;
+	top: 20px;
+
+}
+
+.hello{
+	position: relative;
+	left: 920px;
+	top: 110px;
+}
+
+.rajz1{
+	position: relative;
+	left: 325px;
+	top: 35px;
+}
+
+.rajz2{
+	text-align: right;
+	position: relative;
+	bottom: 440px;
+	right: 340px;
+}
+
+.rajzok img:hover{
+	cursor: pointer;
+	border:2px solid black;
+}
+
+.tervek{
+	background-image: url(../CSS/Képek/mappa.jpg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	min-height: 100vh;
+}
+
+.mappak{
+	position: relative;
+	left: 220px;
+	bottom: 160px;
+}
+
+.forras{
+	position: relative;
+	left: 850px;
+	bottom: 300px;
+}
+
+
+
+
